@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** In three days we surface Indigenous-led co-management practices and map hegemonic responses so coastal Nations can advocate for equitable stewardship agreements.
 
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/tree/main/code) · [Data & access](data.md)**
+**[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View shared code](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** Live notes, visuals, and references from Innovation Summit 2025 Group 16. Edit in-browser: open a file → ✏️ → Commit changes.
 
@@ -145,13 +145,13 @@ Equitable co-management is central to climate adaptation and cultural continuity
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="assets/Indigenous_Co-Management_Brief.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/tree/main/code"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
+  <a href="https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/code/single_hull_demo.py"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="data.md"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
+  <a href="https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
