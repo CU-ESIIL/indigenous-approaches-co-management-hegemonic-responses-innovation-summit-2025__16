@@ -1,4 +1,4 @@
-# Welcome to ESIIL Education Student OASIS
+# Welcome to Indigenous Approaches to Co-Management
 
 This is the central resource for ESIIL project groups.
 

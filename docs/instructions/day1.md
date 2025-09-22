@@ -9,7 +9,7 @@ permalink: /instructions/day1/
 
 ## 1) Start with people
 - Names, roles, what each person wants to learn or contribute in 3 days.
-- Add your names to **[Team](https://cu-esiil.github.io/Project_group_OASIS/#team)** (top nav → Team). Edit the table, keep it simple.
+- Add your names to **[Team](https://cu-esiil.github.io/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/#team)** (top nav → Team). Edit the table, keep it simple.
 
 ## 2) Define your product, question(s) and hypotheses
 Open **Home** → edit `docs/index.md` → fill in:
@@ -43,8 +43,8 @@ Open **Home** → edit `docs/index.md` → fill in:
 # In your CyVerse terminal
 cd ~
 # Replace with your repo URL (green "Code" button → HTTPS)
-git clone https://github.com/ORG/REPO.git
-cd REPO
+git clone https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16.git
+cd indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16
 ```
 
 **Make a tiny change and push it back:**
