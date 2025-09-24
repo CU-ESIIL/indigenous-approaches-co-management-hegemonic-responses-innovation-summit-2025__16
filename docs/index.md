@@ -63,34 +63,35 @@ Equitable co-management is central to climate adaptation and cultural continuity
 *Focus: assemble spatial layers, policy text, and narratives; test rapid analysis pipelines.*
 
 ### Data sources we’re exploring 📣
-- **PAD-US 3.0** — delineates federal, state, Tribal, and private protected areas; used to map overlap and gaps.
-- **NOAA Fisheries management regions** — boundary files and enforcement notes for comparing governance tiers.
-- **Indigenous Guardian program case studies** — qualitative dataset of stewardship actions and outcomes.
+<!-- EDIT: Link each source; add size/notes if relevant. -->
+- **Source A**
 
-  ![Overlaying PAD-US with Indigenous territories](assets/explore_data_plot.png)
-[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot showing territorial overlap along the Northwest coast.*
+  ![Pattern revealed during exploration](assets/explore_data_plot.png)
+[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/explore_data_plot.png)
+  *Snapshot showing initial data patterns.*
+
+- Source B — link and 1-line description
 
 ### Methods / technologies we’re testing 📣
-- Spatial joins between PAD-US, marine management zones, and Indigenous territories to quantify overlap.
-- Topic modeling on policy documents to classify common hegemonic narratives.
-- Lightweight dashboard (Streamlit) to surface quotes, data layers, and recommended actions.
+- Approach 1 (e.g., time-series break detection)
+- Approach 2 (e.g., random forest on features)
+- Visualization (e.g., map tiles, small multiples)
 
 ### Challenges identified
-- Territorial boundary datasets differ by projection and precision; reconciliation required.
-- Policy texts vary widely in format, complicating rapid NLP ingestion.
-- Need clear protocols for sharing community-sourced narratives with consent.
+- Data gaps / quality issues
+- Method limitations / compute constraints
+- Open questions we need to decide on
 
 ### Visuals
 #### Static figure
 ![Overlap between Tribal stewardship and federal fisheries management](assets/figure1.png)
 [Raw photo location: figure1.png](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/figure1.png)
-*Figure 1.* Preliminary overlap percentages showing where co-management discussions are active.
+*Figure 1.* One line on what this suggests.
 
 #### Animated change (GIF)
 ![Temporal shifts in management responses](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/change.gif)
-*Figure 2.* Tracking policy amendments over the last decade in response to Indigenous leadership.
+*Figure 2.* One line on what changes across time.
 
 #### Interactive map (iframe)
 <iframe
@@ -104,28 +105,30 @@ Equitable co-management is central to climate adaptation and cultural continuity
 ---
 
 ## Final Share Out — Insights & Sharing
-*Focus: synthesize findings, center community recommendations, and clarify next steps.*
+*Focus: synthesis; highlight 2–3 visuals that tell the story; keep text crisp. Practice a 2-minute walkthrough of the homepage 📣: Why → Questions → Data/Methods → Findings → Next.*
 
 ![Team photo with community partners](assets/team_photo.jpg)
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-- Co-managed zones with shared monitoring protocols report 35% faster resolution of enforcement disputes.
-- Regions recognizing Indigenous law within agreements show broader habitat indicators beyond biomass targets.
-- Hegemonic responses cluster around narrative framing—policy language emphasizing “compliance” correlates with reduced Indigenous agency.
-
+<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
+- Headline 1 — what, where, how much
+- Headline 2 — change/trend/contrast
+- Headline 3 — implication for practice or policy
+  
 ### Visuals that tell the story 📣
+<!-- EDIT: Swap visuals; prioritize clarity. -->
 ![Co-management negotiation flow](assets/fire_hull.png)
 [Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Process map highlighting decision points where Indigenous leadership is sidelined or honored.
+*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
 
 ![Community-defined stewardship indicators](assets/hull_panels.png)
 [Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Indicators prioritized by Indigenous partners contrasted with federal monitoring metrics.
+*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
 
 ![Media response typologies](assets/main_result.png)
 [Raw photo location: main_result.png](https://github.com/CU-ESIIL/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/blob/main/docs/assets/main_result.png)
-*Visual 3.* Topic clusters illustrating supportive vs. hegemonic narratives in regional media.
+*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
 
 <iframe
   title="Short explainer video"
@@ -135,9 +138,9 @@ Equitable co-management is central to climate adaptation and cultural continuity
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Compile co-management agreement templates and annotate Indigenous governance clauses.
-- Conduct listening sessions with partner Nations to validate the dashboard structure.
-- Share findings with NOAA and provincial agencies to prompt policy alignment discussions.
+- Immediate follow-ups
+- What we would do with one more week/month
+- Who should see this next
 
 ---
 
@@ -161,8 +164,8 @@ Equitable co-management is central to climate adaptation and cultural continuity
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| *Add your teammate here* | e.g., Lead, Analyst, Liaison | name@example.org | @github-handle |
-| *Add your teammate here* |  |  |  |
+| Jane Doe | Lead | jane.doe@example.org | @janedoe |
+| John Smith | Analyst | john.smith@example.org | @jsmith |
 
 ---
 
